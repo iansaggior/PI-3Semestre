@@ -1,2 +1,2 @@
-# PI - 3-Semestre
+# PI - 3ºSemestre
 arquivos de documentação do projeto 
